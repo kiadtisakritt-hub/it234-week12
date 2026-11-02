@@ -36,13 +36,5 @@
       "available": true,
       "tags": ["ชา", "เย็น"]
     },
-      {
-      "id": 5,
-      "name": "rak ink mak mak",
-      "price": 50,
-      "emoji": "🍵",
-      "available": true,
-      "tags": ["ชา", "เย็น"]
-      }
   ]
 }

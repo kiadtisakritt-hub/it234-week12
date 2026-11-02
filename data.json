@@ -1,8 +1,8 @@
 {
-  "shopName": "ร้านกาแฟของฉัน",
-  "owner": "ชื่อนักศึกษา",
-  "studentId": "6XXXXXXXXX",
-  "ownerPhone": "081-234-5678",
+  "shopName": "ice cool",
+  "owner": "นายเกียรติศักดิ์ ฤทธิมาร",
+  "studentId": "1680706395",
+  "ownerPhone": "083-210-4415",
   "products": [
     {
       "id": 1,
@@ -35,6 +35,6 @@
       "emoji": "🍵",
       "available": true,
       "tags": ["ชา", "เย็น"]
-    },
+    }
   ]
 }
